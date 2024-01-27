@@ -1,0 +1,4 @@
+A classes hi ha tot el codi de les classes del domini.
+
+A controllers hi ha tot el codi del controlador del domini i els subcontroladors
+que hem considerat necessaris (actuen com a conjunt de alguna classe).

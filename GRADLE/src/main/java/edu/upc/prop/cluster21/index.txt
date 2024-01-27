@@ -1,0 +1,8 @@
+Al directori domain hi ha tot el codi de la capa de domini.
+
+Al directori presentation hi ha tot el codi de la capa de presentacio.
+
+Al directori persistence hi ha tot el codi de la capa de persistencia.
+
+Al directori exceptions hi ha totes les excepcions personalitzades que 
+utilitzem al projecte per gestionar les excepcions.

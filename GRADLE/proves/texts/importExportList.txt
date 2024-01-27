@@ -1,0 +1,3 @@
+Prop es una gran assignatura en la que hem treballar un gestor de teclats.
+Aquest aplicacio ha estat desenvolupada per Biel Altes, Alex Garces, Joan Carles Veny i Ismael El Basli.
+Durant el proces ens hem trobat amb diverses dificultats pero totes han estat superades.

@@ -1,0 +1,5 @@
+Al directori main/java/edu/prop/cluster21/ hi ha tot el codi font del programa.
+
+Al directori test/java/edu/prop/cluster21/ hi ha tot el codi dels test JUnit.
+
+Els subdirecoris segueixen l'estructura de packages.

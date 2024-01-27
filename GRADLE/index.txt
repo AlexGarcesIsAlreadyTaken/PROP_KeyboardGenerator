@@ -1,0 +1,7 @@
+Hi ha directoris generats de forma automatica per gradle. Si s'usa ./gradlew run
+es crea un directori build amb tots els fitxers de compilacio.
+
+build.gradle, settings.gradle i gradle.bat son fitxers de configuracio de gradle.
+
+A part d'aixo, el directori rellevant de cara a l'entrega es el src. Dins hi ha 
+tot el codi font del projecte i un altre index.txt que especifica on es troba tot.

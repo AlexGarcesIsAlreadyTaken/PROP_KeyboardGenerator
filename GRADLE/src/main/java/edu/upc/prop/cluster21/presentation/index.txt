@@ -1,0 +1,8 @@
+CtrlPresentation.java es el controlador de presentacio.
+
+A views hi ha totes les vistes de la interfície. Cada vista s'associa a una classe que hereda de JPanel.
+
+A panels hi ha tots els panels que hereden de JPanel i s'associen amb una vista.
+
+A components hi ha classes que no són ni vistes ni panels, pero modularitzen el codi i
+permeten que varies classes diferents no hagin d’implementar la mateixa funcio.

@@ -1,0 +1,3 @@
+Cada classe d'aquest directori correspon a un gestor de disc per un element concret del programa.
+Per exemple KeyboardManager es el gestor que s'encarrega de salvar a memoria teclats, així com 
+carregar-los de memoria. (import/export i save/load/modify/delete).

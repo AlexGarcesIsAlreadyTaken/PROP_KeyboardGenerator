@@ -1,0 +1,45 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'edu.upc.prop.cluster21'
+version = '1.0-SNAPSHOT'
+
+ext {
+    javaMainClass = 'edu.upc.prop.cluster21.presentation.views.Main'
+}
+
+application {
+    mainClassName = javaMainClass
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class': javaMainClass
+    }
+}
+
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // this is just an example of importing an external library, you do not need to use it in your project
+    implementation 'com.google.code.gson:gson:2.8.9'
+    testImplementation('junit:junit:4.13.1')
+    implementation 'com.intellij:forms_rt:7.0.3'
+    implementation group: 'com.googlecode.json-simple', name: 'json-simple', version: '1.1.1'
+}
+
+run {
+    standardInput = System.in
+}
+
+test {
+    testLogging {
+        events "passed", "skipped", "failed"
+    }
+}

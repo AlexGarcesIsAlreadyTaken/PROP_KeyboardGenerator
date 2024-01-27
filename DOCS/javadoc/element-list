@@ -1,0 +1,9 @@
+edu.upc.prop.cluster21
+edu.upc.prop.cluster21.domain.classes
+edu.upc.prop.cluster21.domain.controllers
+edu.upc.prop.cluster21.exceptions
+edu.upc.prop.cluster21.persistence
+edu.upc.prop.cluster21.presentation
+edu.upc.prop.cluster21.presentation.components
+edu.upc.prop.cluster21.presentation.panels
+edu.upc.prop.cluster21.presentation.views
